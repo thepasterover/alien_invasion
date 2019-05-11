@@ -1,3 +1,10 @@
+"""
+
+Author : the_paste_rover aka Boobalan Shettiyar.
+This is the main file run this so you can run your game.
+
+"""
+
 import pygame
 from pygame.sprite import Group
 
